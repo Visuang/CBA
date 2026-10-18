@@ -1,0 +1,14 @@
+# Experiment outputs and model weights
+logs/
+*.log
+*.pth
+*.pt
+*.out
+serial_launch_record.json
+# Python and editor artifacts
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+.DS_Store
+.env
